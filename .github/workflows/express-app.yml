@@ -31,5 +31,5 @@ jobs:
           context: express-app
           file: express-app/Dockerfile
           push: true
-          tags: devopsdockeruh/express-app:latest
+          tags: illuteracy/express-app:latest
   
